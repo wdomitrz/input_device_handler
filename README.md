@@ -25,4 +25,4 @@ The configuration file is a `dict` in JSON format with two keys:
 
 Copyright (c) Witalis Domitrz
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](LICENSE) license.
