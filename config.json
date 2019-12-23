@@ -1,0 +1,63 @@
+{
+    "device_options": {
+        "path": "/dev/input/by-id/usb-Razer_Razer_Naga_2014-if02-event-kbd",
+        "exclusive": true
+    },
+    "bindings": {
+        "KEY_1": {
+            "cmd": [
+                "i3-msg",
+                "workspace",
+                "prev_on_output"
+            ]
+        },
+        "KEY_2": {
+            "cmd": [
+                "i3-msg",
+                "workspace",
+                "next_on_output"
+            ]
+        },
+        "KEY_3": {
+            "cmd": [
+                "i3-msg",
+                "bar",
+                "mode",
+                "toggle"
+            ]
+        },
+        "KEY_4": {
+            "key": "ctrl+Tab"
+        },
+        "KEY_5": {
+            "cmd": [
+                "gtk-launch",
+                "run-menu"
+            ]
+        },
+        "KEY_6": {
+            "cmd": "subl"
+        },
+        "KEY_7": {
+            "key": "ctrl+Shift+Tab"
+        },
+        "KEY_8": {
+            "cmd": "firefox"
+        },
+        "KEY_9": {
+            "cmd": [
+                "onboard",
+                "--theme=Nightshade"
+            ]
+        },
+        "KEY_0": {
+            "key": "XF86AudioLowerVolume"
+        },
+        "KEY_MINUS": {
+            "key": "XF86AudioMute"
+        },
+        "KEY_EQUAL": {
+            "key": "XF86AudioRaiseVolume"
+        }
+    }
+}
