@@ -6,7 +6,7 @@
 
 ## Configuration
 
-An example of configuration file is in [config.json](config.json). It is adjusted for Razer Naga 2014 and my config of [i3](https://i3wm.org/).
+An example of configuration file is in [config.json](config.json). It is adjusted for Razer Naga 2014 and my [i3](https://i3wm.org/) config.
 
 The configuration is stored in `~/.config/input_device_handler/config.json` file.
 
